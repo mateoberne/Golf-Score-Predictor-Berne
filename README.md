@@ -124,3 +124,41 @@ I will test the application while building it and try to fix any problems.
 I plan to use AI to help me understand Python code, fix errors, and build parts of my application.
 
 I will review and test the code to make sure I understand how it works. I will also explain how I used AI in my final submission.
+
+
+
+
+## DELIVERABLE 2 – WORKING PROTOTYPE
+
+### Completed and Working
+
+- Created a sample golf dataset.
+- Trained a Random Forest machine learning model.
+- Created a Streamlit web application.
+- Connected the application to the prediction model.
+- Successfully tested the score prediction feature.
+
+### Prototype Screenshot
+
+![Working Prototype](prototype.png)
+
+### How to Run
+
+Install the required libraries:
+
+`python3 -m pip install -r requirements.txt`
+
+Run the application:
+
+`python3 -m streamlit run app.py`
+
+### Remaining Work
+
+- Add an SQLite database.
+- Save and display previous predictions.
+- Improve the application design and loading speed.
+- Complete additional testing.
+
+### AI Disclosure
+
+I used AI to help develop the code, create sample data, and build the application. I tested the prototype on my computer. The model currently uses synthetic data for demonstration purposes.
